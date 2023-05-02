@@ -102,10 +102,3 @@ async function start() {
   heartbeat(info);
 }
 start();
-
-/*
-console.log(`SESSIONID: ${g_sessionID}
-STEAMID: ${window.location.pathname.split('/').at(-1)}
-COOKIE: ${document.cookie}
-`);
-*/
